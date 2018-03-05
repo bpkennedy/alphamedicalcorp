@@ -16,5 +16,4 @@ A star wars RPG faction website written in React
 `npm run test`
 
 ### Deploy to web hosting
-This will create an optimized production build of the react app and deploy to firebase hosting
-`npm run deploy`
+`npm run deploy` - This will create an optimized production build of the react app and deploy to firebase hosting
